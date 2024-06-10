@@ -1,2 +1,11 @@
-halohub/halo:2.16
-xhofe/alist-aria2:latest
+caddy:latest
+fauria/vsftpd
+linuxserver/qbittorrent
+nginx
+mysql
+php
+jellyfin/jellyfin
+linuxserver/emby
+linuxserver/transmission
+jeessy/ddns-go
+portainer/portainer
