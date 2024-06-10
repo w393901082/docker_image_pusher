@@ -1,3 +1,2 @@
-alpine
-python:alpine3.19
 halohub/halo:2.16
+xhofe/alist-aria2:latest
