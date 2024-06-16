@@ -1,1 +1,1 @@
-ddsderek/easyimage
+vaultwarden/server:latest
