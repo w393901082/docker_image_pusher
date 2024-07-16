@@ -1,1 +1,2 @@
-nextcloud
+mariadb
+onlyoffice:7.5.1
