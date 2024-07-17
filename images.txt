@@ -1,2 +1,2 @@
-mariadb
-onlyoffice:7.5.1
+redis
+onlyoffice/documentserver
