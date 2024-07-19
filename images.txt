@@ -1,1 +1,1 @@
-collabora/code
+rustdesk/rustdesk-server
